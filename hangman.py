@@ -1,6 +1,5 @@
 # hangman game
 import random
-from re import L
 print('''  
  _                                             
 | |                                            
